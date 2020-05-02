@@ -15,10 +15,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You will need the following for running this script-<br/>
->>1)Python3 installed in your system<br/>
->>2)Firefox web browser with Firefox webdriver<br/>
->>3)pip3<br/>
->>4)selenium<br/>
+>1)Python3 installed in your system<br/>
+>2)Firefox web browser with Firefox webdriver<br/>
+>3)pip3<br/>
+>4)selenium<br/>
 
 
 
@@ -74,10 +74,10 @@ This project is not any kind of extention of any other project
 cd Downloads/InstaSpy-master
 python3 InstaSpy-script.py
 ```
->8. Wait for around 5 minutes and let the script run
->9. After successful execution of the script Firefox will close and now you can check 'InstaSpy-master' folder, it will have two .csv files-
->>**followers.csv**    This file will contain list of all the followers of target
->>**following.csv**    This file will contain list of all those who follow target (following)
+>8. Wait for around 5 minutes and let the script run<br/>
+>9. After successful execution of the script Firefox will close and now you can check 'InstaSpy-master' folder, it will have two .csv files-<br/>
+>>**followers.csv**    This file will contain list of all the followers of target<br>
+>>**following.csv**    This file will contain list of all those who follow target (following)<br/>
 
     PS:- I used Atom editor, which is one of the greatest editors.
          Availabe for free on https://atom.io
