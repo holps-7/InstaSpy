@@ -3,7 +3,7 @@
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 ## Star this repo if you liked the project!
 
-Check out followers and following of any user on Instagram and get them in a CSV file...
+Check out followers and following of any user on Instagram and save them in a CSV file...
 
 
 ## Getting Started
