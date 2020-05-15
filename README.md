@@ -1,3 +1,9 @@
+<center>
+  
+![](https://img.shields.io/badge/author-Ramesh%20Sachan-brightgreen) ![](https://img.shields.io/badge/licence-MIT-green)
+
+</center>
+
 # InstaSpy!
 ### Coded by: @holps-7 (https://github.com/holps-7/InstaSpy/)
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
